@@ -1,0 +1,6 @@
+/Users/katshido/RiderProjects/TagGameConsole/bin/Debug/TagGameConsole.exe
+/Users/katshido/RiderProjects/TagGameConsole/bin/Debug/TagGameConsole.pdb
+/Users/katshido/RiderProjects/TagGameConsole/obj/Debug/TagGameConsole.csprojAssemblyReference.cache
+/Users/katshido/RiderProjects/TagGameConsole/obj/Debug/TagGameConsole.csproj.CoreCompileInputs.cache
+/Users/katshido/RiderProjects/TagGameConsole/obj/Debug/TagGameConsole.exe
+/Users/katshido/RiderProjects/TagGameConsole/obj/Debug/TagGameConsole.pdb
